@@ -4,6 +4,7 @@
 **Problem Statement: 1**  
 **Name**: Akuthota Rakesh Kumar  
 **Email**: akuthotarakeshkumar1012@gmail.com  
+**Live Link**: https://akuthota-rakesh-kumar-front-end-project-rak8738-3467s-projects.vercel.app/home
 
 A futuristic skill exchange platform built using **Next.js**, **TypeScript**, and **Tailwind CSS**, enabling users to connect and exchange skills seamlessly. This project follows a modular structure and includes features like authentication, skill management, and an admin dashboard.
 
